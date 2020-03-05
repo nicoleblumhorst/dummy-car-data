@@ -1,5 +1,12 @@
 {
-  "makes": ["DODGE", "HONDA", "JEEP", "CHEVY"],
-  "models": ["COOL"]
-  
+  "make": [
+    {
+      "id": "Dodge",
+      "models": ["Charger", "Challenger"]
+    },
+    {
+      "id": "Jeep",
+      "models": ["Wrangler", "Cherokee"]
+    }
+  ]
 }
