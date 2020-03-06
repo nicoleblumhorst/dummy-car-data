@@ -9,57 +9,50 @@
       ]
     },
     {
-      "name": "CHEVROLET"
+      "name": "CHEVROLET",
+      "models": [
+        "Silverado",
+        "Spark",
+        "Traverse"
+      ]
     },
     {
-      "name": "DODGE"
+      "name": "DODGE",
+      "models": [
+        "Challenger",
+        "Charger"
+      ]
     },
     {
-      "name": "FORD"
+      "name": "FORD",
+      "models": [
+        "Focus",
+        "Explorer"
+      ]
     },
     {
-      "name": "HONDA"
+      "name": "HONDA",
+      "models": [
+        "Accord",
+        "CR-V"
+      ]
     },
     {
-      "name": "JEEP"
+      "name": "JEEP",
+      "models": [
+        "Cherokee",
+        "Gladiator",
+        "Wrangler"
+      ]
     },
     {
-      "name": "TOYOTA"
+      "name": "TOYOTA",
+      "models": [
+        "4Runner",
+        "Corolla",
+        "Prius",
+        "Rav4"
+      ]
     }
-  ],
-  "models": {
-    "AUDI": [
-      "A3",
-      "A4",
-      "A5"
-    ],
-    "CHEVROLET": [
-      "Silverado",
-      "Spark",
-      "Traverse"
-    ],
-    "DODGE": [
-      "Challenger",
-      "Charger"
-    ],
-    "FORD": [
-      "Focus",
-      "Explorer"
-    ],
-    "HONDA": [
-      "Accord",
-      "CR-V"
-    ],
-    "JEEP": [
-      "Cherokee",
-      "Gladiator",
-      "Wrangler"
-    ],
-    "TOYOTA": [
-      "4Runner",
-      "Corolla",
-      "Prius",
-      "Rav4"
-    ]
-  }
+  ]
 }
