@@ -1,7 +1,12 @@
 {
   "make": [
     {
-      "name": "AUDI"
+      "name": "AUDI",
+      "models": [
+        "A3",
+        "A4",
+        "A5"
+      ]
     },
     {
       "name": "CHEVROLET"
@@ -58,4 +63,3 @@
     ]
   }
 }
-
