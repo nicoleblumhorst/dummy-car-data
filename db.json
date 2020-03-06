@@ -1,12 +1,61 @@
 {
   "make": [
     {
-      "id": "Dodge",
-      "models": ["Charger", "Challenger"]
+      "name": "AUDI"
     },
     {
-      "id": "Jeep",
-      "models": ["Wrangler", "Cherokee"]
+      "name": "CHEVROLET"
+    },
+    {
+      "name": "DODGE"
+    },
+    {
+      "name": "FORD"
+    },
+    {
+      "name": "HONDA"
+    },
+    {
+      "name": "JEEP"
+    },
+    {
+      "name": "TOYOTA"
     }
-  ]
+  ],
+  "models": {
+    "AUDI": [
+      "A3",
+      "A4",
+      "A5"
+    ],
+    "CHEVROLET": [
+      "Silverado",
+      "Spark",
+      "Traverse"
+    ],
+    "DODGE": [
+      "Challenger",
+      "Charger"
+    ],
+    "FORD": [
+      "Focus",
+      "Explorer"
+    ],
+    "HONDA": [
+      "Accord",
+      "CR-V"
+    ],
+    "JEEP": [
+      "Cherokee",
+      "Gladiator",
+      "Wrangler"
+    ],
+    "TOYOTA": [
+      "4Runner",
+      "Corolla",
+      "Prius",
+      "Rav4"
+    ]
+  }
 }
+
